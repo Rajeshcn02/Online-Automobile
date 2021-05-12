@@ -27,3 +27,4 @@ Background color change
 GIT-264 #comment Resolved conflicts.
 
 ON-2 #comment this is test commit
+added one line
